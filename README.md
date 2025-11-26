@@ -1,1 +1,4 @@
 # netflix-app-clone
+
+This project is a fully functional Netflix Clone Application built with ReactJS for the front-end and Python Django for the back-end. The app allows users to view various movie categories, and stream video content. The front-end uses Context API to manage global state efficiently, handling user authentication, movie data, and UI updates across components. Django serves as the REST API provider, handling database operations, authentication, and content delivery. The application mimics key Netflix features, including dynamic banners, rows of categorized content, detailed movie pages, and secure user login functionality. It delivers a smooth, responsive, and scalable streaming experience.
+Also Pls contact me for further details at +91 9497235611/ ace567871@gmail.com
